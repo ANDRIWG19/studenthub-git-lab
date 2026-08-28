@@ -1,0 +1,5 @@
+# Team Rules
+
+- Always review PRs before merging.
+- Do not commit directly to main.
+- Resolve conflicts carefully.
